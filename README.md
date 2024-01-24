@@ -1,0 +1,2 @@
+# SimpleSpriteCutter
+Sprite-Cutter
