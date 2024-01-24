@@ -4,7 +4,7 @@ It's Simple-Sprite-Cutter what I made.
 ## How to use
 1. Open SpriteCutter.exe file
 2. Click 'Load Image' button for choose image to cut.
-3. Input the informations.
+3. Input the informations.<br>
    {
      top : margin-top
      left : margin-left
@@ -13,6 +13,7 @@ It's Simple-Sprite-Cutter what I made.
      offset-x : spacing after every cuts
      offset-y : spacing after every cuts
    }
-4. Select background-color if you want to erase a color
-5. Check output file name and click 'Save Files' Button.
-6. Then, Files gonna save in outputs folder.
+5. Click 'Split' Button.
+6. Select background-color if you want to erase a color
+7. Check output file name and click 'Save Files' Button.
+8. Then, Files gonna save in outputs folder.
