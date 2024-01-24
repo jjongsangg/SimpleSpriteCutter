@@ -2,6 +2,7 @@
 It's Simple-Sprite-Cutter what I made.
 
 ## How to use
+(https://youtu.be/VGqwq4-Tl6Y?si=WXr9FaHRRb3JzuXc)
 1. Open SpriteCutter.exe file
 2. Click 'Load Image' button for choose image to cut.
 3. Input the informations.<br>
