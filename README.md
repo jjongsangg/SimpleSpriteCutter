@@ -1,6 +1,6 @@
 # SimpleSpriteCutter
-It's Simple-Sprite-Cutter what I made.
-
+It's Simple-Sprite-Cutter what I made.<br>
+<This Programm is built by .Net Frameworks.>
 ## How to use
 (https://youtu.be/VGqwq4-Tl6Y?si=WXr9FaHRRb3JzuXc)
 1. Open SpriteCutter.exe file
